@@ -9,19 +9,6 @@ This project enables users to ask **natural language questions** about tabular d
 - 🤖 Translates questions into Python/Pandas code using LLMs
 - 📊 Supports CSV, Excel, and DataFrame input formats
 - 🧠 Built with OpenAI API or local language models
-- 🛠️ Optional Streamlit UI for interactive use
-
-## 📁 Project Structure
-
-```
-DataFrame-QA/
-├── app.py                  # Main app file
-├── data/                   # Sample datasets
-├── notebooks/              # Jupyter demo walkthroughs
-├── utils/                  # NLP & query parsing utilities
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
-```
 
 ## 🛠️ Tech Stack
 
